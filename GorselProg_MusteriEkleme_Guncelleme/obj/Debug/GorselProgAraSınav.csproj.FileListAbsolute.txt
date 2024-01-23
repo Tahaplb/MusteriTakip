@@ -1,0 +1,40 @@
+C:\Users\onur\source\repos\GorselProgAraSınav\bin\Debug\GorselProgAraSınav.exe.config
+C:\Users\onur\source\repos\GorselProgAraSınav\bin\Debug\GorselProgAraSınav.exe
+C:\Users\onur\source\repos\GorselProgAraSınav\bin\Debug\GorselProgAraSınav.pdb
+C:\Users\onur\source\repos\GorselProgAraSınav\bin\Debug\EntityFramework.dll
+C:\Users\onur\source\repos\GorselProgAraSınav\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onur\source\repos\GorselProgAraSınav\bin\Debug\EntityFramework.xml
+C:\Users\onur\source\repos\GorselProgAraSınav\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.csproj.AssemblyReference.cache
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.Form1.resources
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.Properties.Resources.resources
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.csproj.GenerateResource.cache
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.csproj.CoreCompileInputs.cache
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.csproj.CopyComplete
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.exe
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.pdb
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.Form2.resources
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.Form3.resources
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.Form4.resources
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.Form5.resources
+C:\Users\onur\source\repos\GorselProgAraSınav\obj\Debug\GorselProgAraSınav.Form6.resources
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\bin\Debug\GorselProgAraSınav.exe.config
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\bin\Debug\GorselProgAraSınav.exe
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\bin\Debug\GorselProgAraSınav.pdb
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\bin\Debug\EntityFramework.dll
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\bin\Debug\EntityFramework.xml
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.csproj.AssemblyReference.cache
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.Form1.resources
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.Form2.resources
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.Form3.resources
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.Form4.resources
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.Form5.resources
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.Form6.resources
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.Properties.Resources.resources
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.csproj.GenerateResource.cache
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.csproj.CoreCompileInputs.cache
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.csproj.CopyComplete
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.exe
+C:\Users\onur\Desktop\GorselProgAraSınav - 3\obj\Debug\GorselProgAraSınav.pdb
